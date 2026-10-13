@@ -1,0 +1,17 @@
+# Large dataset archives (>100MB exceeds GitHub hard limit)
+m2cai16-tool-locations.zip
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary IDE / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large local demo recording (stress_test_demo.mp4 and sample_surgery.mp4 are kept)
+demo_output.mp4
